@@ -70,7 +70,7 @@ Full tables, all 45 hypothesis tests and diagnostic plots are in [`results/repor
 ## Usage
 
 ```bash
-git clone https://github.com/<your-username>/capm-beta-analysis.git
+git clone https://github.com/<ZisisAkrivos05-ops>/capm-beta-analysis.git
 cd capm-beta-analysis
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -e ".[dev]"
